@@ -1,0 +1,38 @@
+@media (max-width:1200px) {}
+@media (max-width:992px) {}
+@media (max-width:768px) {
+    .heroLeft a {
+       
+        margin-bottom: 10px;
+    }
+}
+@media (max-width:576px) {
+
+.logo{
+    flex-basis: 100%;
+}
+.menu{
+    flex-basis: 100%;
+}
+.nav a {
+    
+    padding: 0px 17px;
+    
+}
+.nav {
+    
+    margin-bottom: 8%;
+}
+.heroLeft{
+    flex-basis: 100%;
+}
+.heroRight{
+    flex-basis: 100%;
+}
+
+.heroLeft a {
+    
+    margin-bottom: 15px;
+}
+
+}
